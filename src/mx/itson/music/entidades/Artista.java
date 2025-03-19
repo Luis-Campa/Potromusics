@@ -11,7 +11,7 @@ package mx.itson.music.entidades;
 public class Artista {
 
     /**
-     * @return the nombre
+     * @return the name
      */
     public String getNombre() {
         return nombre;
